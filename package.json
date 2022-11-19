@@ -20,7 +20,7 @@
     "redux-thunk": "^2.3.0",
     "save": "^2.4.0",
     "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "version": "0.1.0",
   "devDependencies": {
